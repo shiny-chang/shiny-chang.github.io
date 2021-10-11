@@ -1,5 +1,5 @@
 ---
-title: The Duality of Purpose and Work
+title: 인프라 운영 따라잡기 - 리눅스부터 AWS까지
 date: 2020-10-25
 author: Brennan K. Brown
 layout: post
