@@ -1,5 +1,5 @@
 ---
-title: 인프라 운영 따라잡기 - 리눅스부터 AWS까지
+title: I want to change
 author: Reid Doe
 avatar: assets/img/common/reid-avatar.png
 categories:
