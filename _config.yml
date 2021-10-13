@@ -21,8 +21,8 @@
 title: "Hi"
 email: 추후공지
 description: >- # this means to ignore newlines until "baseurl:"
-  A responsive sidebar Jekyll theme using the Pure.css framework, 
-  designed for writers and bloggers of all kinds.
+  정보보안과 관련된 내용을 포스트할 예정입니다.
+  
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://purelog.netlify.app" # the base hostname & protocol for your site, e.g. http://example.com
 repository: brennanbrown/purelog
