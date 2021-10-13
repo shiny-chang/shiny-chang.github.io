@@ -10,17 +10,7 @@ tags:
   - Habits
 ---
 
-One of the most effective methods to understanding the materials that you’re studying is to be passionate about them. This is the beauty of MOOCs — the idea that you can pick and choose to learn exactly and only what you want to.
-
-Don’t jump into a new study without having a plan for it. Whenever you feel discouraged or frustrated, you can take a step back and look at the bigger picture.
-
-There&#8217;s plenty of meaningful applications for learning new skills: to further your career, to find a new skill to freelance or moonlight with, or to contribute to a hobby or non-profit cause for the sake of goodness.
-
-When you have a mindset of passion — of having a reason to learn and a future goal to look forward too — it is far easier to focus and digest material on a deeper level of understanding, beyond simply learning from rote.
-
-**Schedule:** With so much choice and freedom, it can be easy to try to accomplish too many things at once, only to end up neglecting your studies altogether. This is why it’s so important to chart out a path for yourself once you figure out what you want to accomplish.
-
-Ask yourself how much time you’re able to sacrifice and how much effort you’ll sincerely put into this. Once you have those answers, you’ll be able to plan your own curriculum of sorts.
+제발 바껴라 pelase change
 
 <figure class="wp-caption">
 
